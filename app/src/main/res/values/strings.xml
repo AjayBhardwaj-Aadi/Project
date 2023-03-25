@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Jobs</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Register">Register</string>
+    <string name="Login">Login</string>
+    <string name="Loginkey">Login Key</string>
+    <string name="TPOID">TPO Id</string>
+    <string name="LOGINKEY">LOGIN KEY</string>
+    <string name="Name">Name</string>
+    <string name="TPOIDClientID">TPO ID / Client ID</string>
+    <string name="Phone">Phone</string>
+    <string name="Registered">Registered!</string>
+    <string name="RollNo">Your Roll No</string>
+    <string name="Branch">Branch</string>
+    <string name="YearofPassed">Year of Passed</string>
+    <string name="placed">Placed</string>
+</resources>
